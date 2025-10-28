@@ -1,0 +1,23 @@
+# Proteus temporary files
+*.pdsprj.DESKTOP-*
+*.pdsprj.workspace
+
+# Project Backups
+Project Backups/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
