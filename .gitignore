@@ -2,8 +2,6 @@
 *.pdsprj.DESKTOP-*
 *.pdsprj.workspace
 
-# Project Backups
-Project Backups/
 
 # OS generated files
 .DS_Store
