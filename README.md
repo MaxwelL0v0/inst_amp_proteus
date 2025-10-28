@@ -27,11 +27,6 @@ Proyecto de simulación de amplificador de instrumentación usando Proteus con a
 2. Ejecutar la simulación
 3. Revisar las mediciones en el osciloscopio
 
-## Historial de Cambios
-
-- **Último commit**: Agregado datasheet LM324 y nuevo archivo de proyecto de simulación
-- **Proyecto inicial**: Creado el 27/10/2025
-- **Versión actual**: Incluye amplificador operacional LM324 para procesamiento de señales
 
 ## Notas
 
